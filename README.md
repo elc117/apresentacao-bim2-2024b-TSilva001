@@ -9,7 +9,7 @@ Resolvemos essas questões com os métodos join e sleep.
 
 ```Join```
 
-Esse método permite que uma thread espere pela concusão da outra antes de continuar, o que a torna mais útil quando você necessita garantir que a tarefa só vai ser continuada quando a outra terminar. 
+Esse método permite que uma thread espere pela conclusão da outra antes de continuar, o que a torna mais útil quando você necessita garantir que a tarefa só vai ser continuada quando a outra terminar. 
 
 ```sleep```
 
