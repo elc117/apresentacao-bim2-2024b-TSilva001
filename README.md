@@ -92,12 +92,12 @@ Garante que thread2 finalize antes de continuar
 
 ```java
 
+Thread 2 aguardando a conclusão de Thread 1...
 Thread 1 - Contagem: 1
 Thread 1 - Contagem: 2
 Thread 1 - Contagem: 3
 Thread 1 - Contagem: 4
 Thread 1 - Contagem: 5
-Thread 2 aguardando a conclusão de Thread 1...
 Thread 2 - Contagem: 1
 Thread 2 - Contagem: 2
 Thread 2 - Contagem: 3
